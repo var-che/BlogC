@@ -1,1 +1,1 @@
-# BlogC - cleanest bloggins script there is
+# BlogC - cleanest blogging script there is
